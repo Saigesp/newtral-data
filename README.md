@@ -4,5 +4,5 @@ Colección de factchecks publicados por Newtral en su web [newtral.es](https://w
 
 [Descargar datos en CSV](https://raw.githubusercontent.com/Saigesp/newtral-data/master/factcheckings.csv)
 
-Última actualización: 15 julio 2020, 9:00
+Última actualización: 15 julio 2022, 9:00
 
